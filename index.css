@@ -141,6 +141,7 @@ article {
   justify-content: space-between;
   margin: 4em auto;
   padding: 0;
+  min-width: 1100px;
 }
 .image-item {
   display: flex;
