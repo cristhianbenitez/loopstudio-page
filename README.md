@@ -1,6 +1,6 @@
 ## LoopStudio Challenge
 
-Loopstudio Landing Page Challenge
+Loopstudio Landing Page Challenge using HTML and CSS
 
 ### Attribution
 
